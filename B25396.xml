@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just vindication of Mr. Poole's design for printing of his Synopsis of critical and other commentators; against the pretences of Mr. Cornelius Bee, book-seller</title>
+            <author>Poole, Matthew, 1624-1679.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25396</idno><idno type="EEBO-CITATION">99829700</idno>
+  <idno type="VID">207183</idno>
+  <idno type="EEBO-PROQUEST">2248505603</idno>
+  
+            <idno type="STC">Wing J1242</idno>
+            <idno type="PROQUEST">99829700</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829700e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207183)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2008:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just vindication of Mr. Poole's design for printing of his Synopsis of critical and other commentators; against the pretences of Mr. Cornelius Bee, book-seller</title>
+                  <author>Poole, Matthew, 1624-1679.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Cf. Wing P2827: Poole, Matthew.  A brief description of a design concerning a synopsis of the critical and other commentatours.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bee, Cornelius --  Early works to 1800.</term>
+               <term type="personal_name">Poole, Matthew, 1624-1679. --  Brief description of a design concerning a synopsis of the critical and other commentatours.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207183:1"/>
+            <head>A just Vindication of Mr. <hi>Poole</hi>'s Designe for Printing of his <hi>Synopsis of Critical and other Commentators;</hi> against the pretences of Mr. <hi>Cornelius Bee,</hi> Book-seller.</head>
+            <p>WHereas Mr. <hi>Bee</hi> hath lately printed and published a Paper, entituled, <hi>The Case of Cornelius Bee,</hi> &amp;c. wherein he pre<g ref="char:EOLhyphen"/>tends, That Mr. <hi>Poole</hi> hath invaded his right and propriety in the <hi>Criticks,</hi> contrary to the Act of Parliament, which prohibits the re<g ref="char:EOLhyphen"/>printing of all Books either in part or in whole, without the consent of him who makes a due entry of the same; and also contrary to the Kings Priviledge, which provideth, That no man should print the said <hi>Criticks,</hi> neither the whole, nor any part thereof; and therefore, that Mr. <hi>Poole</hi> may neither epitomize the said <hi>Criticks,</hi> nor take any thing out of them without manifest injustice; and that the said Mr. <hi>Poole</hi> by his Work doth both spoyl the sale of the <hi>Criticks</hi> that are left, and hinder the said Mr. <hi>Bee</hi> in his design of re-printing the <hi>Criticks,</hi> which, he saith, he purpo<g ref="char:EOLhyphen"/>seth to do in far better manner than he did before; and this is the sub<g ref="char:EOLhyphen"/>stance of Mr. <hi>Bee</hi>'s plea, which he aggravates, by the consideration of his great Charge in printing the Books, and his great losse sustained by the late Fire.</p>
+            <p>In answer thereunto, it is submitted on Mr. <hi>Pooles</hi> part:</p>
+            <list>
+               <item>1. That Mr. <hi>Poole</hi> did before the publishing of his design understand this pretence of Mr. <hi>Bee,</hi> and thereupon did addresse himself to persons of greatest eminency for integrity and skill in the Law, (which is the great discerner of mens proprieties) and fully acquainted them with his design, and also with all that right which Mr. <hi>Bee</hi> now pretends, as well from the Act of Parliament, as from the Kings Priviledge; and from their concurring judgements received satisfaction, that notwithstanding Mr. <hi>Bee</hi>'s pretence, Mr. <hi>Poole</hi> might without fear of any lawfull disturbance go on in his Work.</item>
+               <item>2. That Mr. <hi>Poole</hi> did at two several meetings before divers worthy persons, make offer to the said Mr. <hi>Bee,</hi> to referre the whole businesse, not only for Common Law but also for Equity and Conscience, to two Lawyers, and to two Divines, to be indifferently chosen by them, which
+<pb n="2" facs="tcp:207183:2"/> Mr. <hi>Bee</hi> utterly refused. And the said Mr. <hi>Poole</hi> did then further offer to Mr. <hi>Bee</hi> (upon condition they had been then accepted) such conside<g ref="char:EOLhyphen"/>rable terms of accommodation, as were judged by all that were present (even by those that were chosen by Mr. <hi>Bee)</hi> to be such as would have been much to Mr <hi>Bee</hi>'s advantage, and more than the said Mr. <hi>Poole</hi> was any way obliged unto.</item>
+               <item>3. How unrighteous a thing it is for Mr. <hi>Bee</hi> to charge Mr. <hi>Poole</hi> with that which himself is guilty of: For in that late Edition of the <hi>Criticks,</hi> he brought down the price of divers Books from 50, or 60 <hi>l.</hi> to 13 <hi>l.</hi> 10 <hi>s.</hi> as he himself professeth, whereby diverse Scholars were forced to sell those Books with great losse, at far lower prices than they cost them; and the re-printing of the <hi>Criticks</hi> in far better form, will be a manifest injury to hundreds of Scholars that bought the present <hi>Criticks</hi> at a dear rate, which by this means will be little better than waste-paper; And if these losses and injuries be expiated by the serviceablenesse of Mr. <hi>Bee</hi>'s design to the Publike good, Why may not Mr. <hi>Poole</hi> have the Benefit of the same Plea?</item>
+               <item>4. It is so unreasonable a conceit which Mr. <hi>Bee</hi> expresly affirms, that <hi>It is injustice to take any thing out of the</hi> Criticks, that it deserves no Answer. Nothing is more familiar than for one Author to take con<g ref="char:EOLhyphen"/>siderable parcels out of others and print them in his own Book; and Mr. <hi>Royston</hi> himself one of Mr. <hi>Bee</hi>'s Partners, notwithstanding the Kings Priviledge and Patent granted to others for the sole right of printing of the Bible, did print all the <hi>New Testament</hi> with Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond</hi>'s Notes to it: Nay the making and printing of <hi>Epitomies</hi> of larger Books by other persons is warranted not only by the judgement of Lawyers, but by the usual practice of Booksellers among them<g ref="char:EOLhyphen"/>selves. Who ever accused <hi>Marlorat</hi> of <hi>injustice</hi> for making an Epitomy of <hi>Calvin, Bullinger,</hi> and <hi>Musculus,</hi> &amp;c. upon the New Testament, though he hath nothing else both for Words and Matter but what is taken out of those very Authors? Who ever questioned Mr. <hi>Mason</hi> or his Printer for Epitomizing the <hi>Book of Martyrs?</hi> or Mr. <hi>Wase</hi> for Epitomizing former <hi>Dictionaries</hi> both <hi>Latine</hi> and <hi>English,</hi> or any of the Epitomizers of the Books of <hi>Common</hi> and <hi>Statute Law?</hi> And no longer ago then this last Term, this very Case was determined according<g ref="char:EOLhyphen"/>ly by the Lord Keeper.</item>
+               <item>5. That Mr. <hi>Poole</hi> doth not pretend to Epitomize the whole <hi>Criticks;</hi> there are many material things in those Books not belonging to the Exposition of <hi>Scripture,</hi> and <hi>Critical</hi> Curiosities, which such as are able will be willing to purchase. And for so much of the Work as Mr. <hi>Poole</hi>
+                  <pb n="3" facs="tcp:207183:2"/> hath done, there is not above a Fourth or Fifth part taken out of those Authors which are in the <hi>Criticks:</hi> And even those very passages in Mr. <hi>Poole</hi>'s Work which occurr in those <hi>Critical Authors,</hi> are for a very great part, common to them with other Authors which Mr. <hi>Poole</hi> makes use of.</item>
+               <item>6. As for the re-printing of the <hi>Criticks,</hi> which Mr. <hi>Bee</hi> pretends to be hindred by this Work, and that the sale of those Books will be ob<g ref="char:EOLhyphen"/>structed; It is true, there can be no Work undertaken for publick good, but it may accidentally turn to some mens disadvantage: But for this it is further offered;
+<list>
+                     <item>1. That this is no loss of any present or certain benefit to Mr. <hi>Bee,</hi> and that this Work he pretends is a work of long time, great charge, and much uncertainty, both in the accomplishment and advantage of it; so that several of Mr. <hi>Bee</hi>'s Partners declare they will not joyn with him in it; and it is generally believed by Scholars and Booksellers that it is not likely to be Printed.</item>
+                     <item>2. It is most evident and known to Scholars, that many of those that are able to buy and read large Volumes will not be satisfied with any Epitomies, but will have recourse to the Authors. But whereas there are at least an hundred Scholars to one whose time and purses cannot possibly reach to large Authors; it is good reason they should be provided for; and if Mr. <hi>Bee</hi> can be content that all such should re<g ref="char:EOLhyphen"/>main destitute of any necessary or usefull helps for a solid Understanding of the <hi>Bible,</hi> meerly out of a conceit of an Imaginary profit which may possibly accrue to himself, let him not be angry if others be of another opinion.</item>
+                  </list>
+               </item>
+            </list>
+            <p>This being the true state of the Case, and Mr. <hi>Bee</hi> having refused all amicable offers of accommodation, and still endeavouring to disturb and hinder the Work, it is Mr. <hi>Poole</hi>'s intention, vigorously and thearfully to proceed in his Work; not doubting but God will be pleased to prosper his endeavours, and that he shall have the assistance and encouragement of all lovers of Learning and Piety.</p>
+            <p>THat Mr. <hi>Poole</hi> may not be thought partial in his own cause, here are subjoyned the opinions of two Gentlemen of known eminency in the Law; to which (if need be) many others will declare their assent, having signified to divers persons, that they are of the same opinion.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:207183:3"/>
+               <head>The Opinion of Sr. <hi>John Maynard</hi> Serjeant at Law.</head>
+               <p>THe grant of the sole Printing of the <hi>Criticks,</hi> doth not prohibit the printing of a <hi>Synopsis</hi> or <hi>Collection</hi> made out of the <hi>Criticks</hi> and <hi>other Authors;</hi> no more then such grant of sole printing of the <hi>Bible,</hi> doth prohibit the printing of a <hi>Sermon</hi> or <hi>Concordance,</hi> as I conceive.</p>
+               <closer>
+                  <signed>J. MAYNARD.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Opinion of Mr. <hi>William Jones</hi> Counsellor at Law of <hi>Grayes Inne.</hi>
+               </head>
+               <p>
+                  <hi>I</hi> Have perused as well <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Case stated by Mr. <hi>Bee</hi> against Mr. <hi>Poole;</hi> as that <hi>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Poole</hi> in answer to Mr. <hi>Bee,</hi> and upon consideration of both, I am of opinion, that Mr. <hi>Bee</hi> hath no Injury done to him, nor can have any remedy either in Law or Equity, for what is propounded to be done by Mr. <hi>Poole</hi> in his intended Work.</p>
+               <closer>
+                  <dateline>
+                     <date>Feb. 10. 1667.</date>
+                  </dateline>
+                  <signed>W. JONES.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
